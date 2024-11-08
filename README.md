@@ -1,7 +1,6 @@
 ### Hi there 👋
 
 # 💫 About Me:
-Mi nombre es Joseline, soy desarrolladora web:)
 
 
 ## 🌐 Socials:
